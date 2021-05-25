@@ -7,4 +7,4 @@ To run the notebook and generate the full dataframes, simply remove .head() from
 Example: order_count.head(10).style.hide_index().set_precision(2) -> order_count.style.hide_index().set_precision(2)
 
 Github will render a static version of the jupyter notebook here in the repository. 
-To run/test the notebook either download the file from this github repo or visit 
+To run/test the notebook either download the file from this github repo or visit: https://mybinder.org/v2/gh/mgriffith700/Airspace_Analysis/caf4a438b0ce47aaa67bb76727553e8fc1f54d53 to run the notebook online.
