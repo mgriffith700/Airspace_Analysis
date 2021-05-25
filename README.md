@@ -8,6 +8,7 @@ Example: order_count.head(10).style.hide_index().set_precision(2) -> order_count
   
 Github will render a static version of the jupyter notebook here in the repository.  
 To run/test the notebook either download the file from this github repo or visit:  
-https://mybinder.org/v2/gh/mgriffith700/Airspace_Analysis/9a42b4e0db9603f412c66f555f6d76e368a9b246 to run the notebook online.  
+https://mybinder.org/v2/gh/mgriffith700/Airspace_Analysis/9a42b4e0db9603f412c66f555f6d76e368a9b246  
+and click on the Airspace_Analysis.ipynb file to run it online.  
 
 Requirements.txt is a list of python packages used in the notebook and used by binder.com to render the notebook online.
